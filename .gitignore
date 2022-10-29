@@ -4,3 +4,6 @@ MyNewGitProject/bin/
 obj/
 MyNewGitProject/obj/
 .vs/
+.git/
+*.exe
+*.dll
